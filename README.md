@@ -1,2 +1,2 @@
 # CV
-Cover letter for employers
+Resume for employers
